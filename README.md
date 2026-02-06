@@ -1,3 +1,0 @@
-# StaticSiteGenerator
-# ssg
-# ssg
